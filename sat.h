@@ -50,7 +50,6 @@ inline bool HasIntersection(std::vector<Point2d> polygon1, std::vector<Point2d> 
         {
             return false;
         }
-            
-        return true;
     }
+    return true;
 }
